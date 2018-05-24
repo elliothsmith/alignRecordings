@@ -57,6 +57,7 @@ else
     end
 end
 
+% TODO:: compare channel names and make sure that the 
 
 %% Now aligning data using alignSignals.
 % first check that there are the same numbers of channels in each matrix. 
